@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" height="25" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" height="25" />
   <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff" height="25" />
+  <img src="https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=java&logoColor=ffffff" height="25"/>
   <img src="https://img.shields.io/badge/-SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff" height="25"/>
   <img src="https://img.shields.io/badge/-SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff" height="25"/>
   <img src="https://img.shields.io/badge/-NODEJS-339933?style=for-the-badge&logo=nodejs&logoColor=ffffff" height="25"/>
