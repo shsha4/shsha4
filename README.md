@@ -1,8 +1,9 @@
 <h1>Welcom ⭐</h1>
 <br />
 <h2> My tech Stack 💻</h2>
-
-! [HTML5] (https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" height="30" />  
+</p>
 
 <!--
 **shsha4/shsha4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
