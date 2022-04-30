@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=java&logoColor=ffffff" height="25"/>
   <img src="https://img.shields.io/badge/-SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff" height="25"/>
   <img src="https://img.shields.io/badge/-SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff" height="25"/>
-  <img src="https://img.shields.io/badge/-NODEJS-339933?style=for-the-badge&logo=nodejs&logoColor=ffffff" height="25"/>
+  <img src="https://img.shields.io/badge/-NODEJS-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" height="25"/>
   <img src="https://img.shields.io/badge/-JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=ffffff" height="25"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff" height="25"/>
   <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=ffffff" height="25"/>
