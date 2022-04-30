@@ -1,7 +1,7 @@
 <h2>Welcom ⭐</h2>
 <p>
   <a href="https://www.instagram.com/minjun92/">
-    <img src="https://img.shields.io/badge/-INSTA-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" height="30">
+    <img src="https://img.shields.io/badge/-INSTA-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" height="25">
   </a>
 </p>
 <br />
