@@ -19,7 +19,7 @@
 </p>  
 <h2>Experience OS</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Window Server-0078D6?style=for-the-badge&logo=window&logoColor=ffffff" height="20"/>
+  <img src="https://img.shields.io/badge/-Window Server-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff" height="20"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff" height="20"/>
   <img src="https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=centos&logoColor=ffffff" height="20"/>
 </p>
