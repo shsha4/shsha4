@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/-NODEJS-339933?style=for-the-badge&logo=nodejs&logoColor=ffffff" height="20"/>
   <img src="https://img.shields.io/badge/-JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=ffffff" height="20"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff" height="20"/>
+  <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=ffffff" height="20"/>
 </p>  
 <h2>Experience OS</h2>
 <p align="center">
