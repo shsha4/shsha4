@@ -14,11 +14,12 @@
   <img src="https://img.shields.io/badge/-NODEJS-339933?style=for-the-badge&logo=nodejs&logoColor=ffffff" height="20"/>
   <img src="https://img.shields.io/badge/-JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=ffffff" height="20"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff" height="20"/>
-  <h3>OS</h3>
+</p>  
+<h3>OS</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff" height="20"/>
   <img src="https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=centos&logoColor=ffffff" height="20"/>
 </p>
-
 
 <!--
 **shsha4/shsha4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
