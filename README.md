@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/-INSTA-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" height="20">
   </a>
 </p>
-<h2> My tech Stack 📚</h2>
+<h2> My Tech Stack 📚</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" height="20" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" height="20" />
