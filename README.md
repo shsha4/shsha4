@@ -118,9 +118,3 @@
 | 2020.03 – 2022.07 | **(주)엠에이티** | IoT 모니터링/제어 웹 서비스 (미세먼지 · 화재감지 · 가로/보안등) |
 | 2016.05 – 2019.05 | **(주)아이티네이드** | 금융사 BCP · DR 및 네트워크 인프라 운영 (코스콤 DR센터, KRX 전환훈련) |
 
-<h2>GitHub Stats 📊</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shsha4&show_icons=true&hide_border=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsha4&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
